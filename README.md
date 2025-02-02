@@ -55,44 +55,44 @@ To execute the notebook, select each cell and press ```Shift + Enter```.
 ## Agent Execution Output
 
 ================================ Human Message =================================<br>
-
+<br>
 Tell me how to grow tomatoes in 50 seconds. Download the video.<br>
 ================================== Ai Message ==================================<br>
 Tool Calls:<br>
   ScriptGenerator (call_oRdIok4LsuIoDMb3CiMRgSKB)<br>
  Call ID: call_oRdIok4LsuIoDMb3CiMRgSKB<br>
   Args:<br>
-    __arg1: How to grow tomatoes<br><br>
+    __arg1: How to grow tomatoes<br>
 ================================= Tool Message =================================<br>
 Name: ScriptGenerator
-
+<br>
 [INTRO]
 Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.
-
+<br>
 [SECTION 1: CHOOSING VARIETIES]
 Start by selecting the right tomato variety for your climate and space. Determinate types are compact, ideal for containers, while indeterminate types grow larger and need staking.
-
+<br>
 [SECTION 2: PLANTING]
 Choose a sunny spot with at least 6-8 hours of sunlight. Prepare the soil by mixing in compost or well-rotted manure. Plant seedlings deep, burying two-thirds of the stem to encourage strong root growth.
-
+<br>
 [SECTION 3: WATERING]
 Water consistently, aiming for 1-2 inches per week. Water at the base to avoid wetting the leaves, which can lead to disease. Mulch around plants to retain moisture and suppress weeds.
-
+<br>
 [SECTION 4: SUPPORTING PLANTS]
 Use stakes, cages, or trellises to support your plants. This keeps fruit off the ground, reducing the risk of rot and pests.
-
+<br>
 [SECTION 5: FERTILIZING]
 Feed your tomatoes with a balanced fertilizer every 4-6 weeks. Avoid high nitrogen fertilizers, which promote foliage over fruit.
-
+<br>
 [SECTION 6: PRUNING]
 Prune suckers, the small shoots between the main stem and branches, to improve air circulation and direct energy to fruit production.
-
+<br>
 [SECTION 7: PEST AND DISEASE MANAGEMENT]
 Monitor for pests like aphids and caterpillars. Use organic pesticides or introduce beneficial insects. Rotate crops annually to prevent soil-borne diseases.
-
+<br>
 [SECTION 8: HARVESTING]
 Harvest tomatoes when they are firm and fully colored. Gently twist and pull from the vine. Enjoy them fresh or preserve them for later use.
-
+<br>
 [OUTRO]
 With these steps, you'll enjoy a bountiful tomato harvest. Happy gardening!<br>
 ================================== Ai Message ==================================<br>
@@ -102,31 +102,31 @@ Tool Calls:<br>
   Args:<br>
     __arg1: [INTRO]<br>
 Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.<br>
-
+<br>
 [SECTION 1: CHOOSING VARIETIES]
 Start by selecting the right tomato variety for your climate and space. Determinate types are compact, ideal for containers, while indeterminate types grow larger and need staking.
-
+<br>
 [SECTION 2: PLANTING]
 Choose a sunny spot with at least 6-8 hours of sunlight. Prepare the soil by mixing in compost or well-rotted manure. Plant seedlings deep, burying two-thirds of the stem to encourage strong root growth.
-
+<br>
 [SECTION 3: WATERING]
 Water consistently, aiming for 1-2 inches per week. Water at the base to avoid wetting the leaves, which can lead to disease. Mulch around plants to retain moisture and suppress weeds.
-
+<br>
 [SECTION 4: SUPPORTING PLANTS]
 Use stakes, cages, or trellises to support your plants. This keeps fruit off the ground, reducing the risk of rot and pests.
-
+<br>
 [SECTION 5: FERTILIZING]
 Feed your tomatoes with a balanced fertilizer every 4-6 weeks. Avoid high nitrogen fertilizers, which promote foliage over fruit.
-
+<br>
 [SECTION 6: PRUNING]
 Prune suckers, the small shoots between the main stem and branches, to improve air circulation and direct energy to fruit production.
-
+<br>
 [SECTION 7: PEST AND DISEASE MANAGEMENT]
 Monitor for pests like aphids and caterpillars. Use organic pesticides or introduce beneficial insects. Rotate crops annually to prevent soil-borne diseases.
-
+<br>
 [SECTION 8: HARVESTING]
 Harvest tomatoes when they are firm and fully colored. Gently twist and pull from the vine. Enjoy them fresh or preserve them for later use.
-
+<br>
 [OUTRO]<br>
 With these steps, you'll enjoy a bountiful tomato harvest. Happy gardening!<br>
 🚀 Sending request to D-ID API...<br>
@@ -138,19 +138,19 @@ With these steps, you'll enjoy a bountiful tomato harvest. Happy gardening!<br>
 🔎 API Response: {'user': {'features': ['stitch', 'api-keys:write', 'clips:write', 'translation', 'scene', 'premium-plus:skip-speaker-validation', None], ...<br>
 ✅ SUCCESS: Avatar generation complete! 🎬 Video URL: ```DELETED```<br>
 ================================= Tool Message =================================<br>
-Name: DIDAvatarGenerator
-
+Name: DIDAvatarGenerator<br>
+<br>
 https://d-id-talks-prod.s3.us-west-2.amazonaws.com/...<br>
 ================================== Ai Message ==================================<br>
-Tool Calls:
-  AvatarDownloader (call_kEHrfHirgGEjUMyomkdjvt3S)
- Call ID: call_kEHrfHirgGEjUMyomkdjvt3S
-  Args:
+Tool Calls:<br>
+  AvatarDownloader (call_kEHrfHirgGEjUMyomkdjvt3S)<br>
+ Call ID: call_kEHrfHirgGEjUMyomkdjvt3S<br>
+  Args:<br>
     __arg1: https://d-id-talks-prod.s3.us-west-2.amazonaws.com/...<br>
 ================================= Tool Message =================================<br>
-Name: AvatarDownloader
-
+Name: AvatarDownloader<br>
+<br>
 ✅ Download complete: downloads/avatar_video.mp4<br>
 ================================== Ai Message ==================================<br>
-
+<br>
 The video on how to grow tomatoes has been created and downloaded successfully. You can find it saved as `downloads/avatar_video.mp4`. Enjoy your gardening!
