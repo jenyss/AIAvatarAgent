@@ -58,11 +58,11 @@ To execute the notebook, select each cell and press ```Shift + Enter```.
 
 Tell me how to grow tomatoes in 50 seconds. Download the video.<br>
 ================================== Ai Message ==================================<br>
-Tool Calls:
-  ScriptGenerator (call_oRdIok4LsuIoDMb3CiMRgSKB)
- Call ID: call_oRdIok4LsuIoDMb3CiMRgSKB
-  Args:
-    __arg1: How to grow tomatoes<br>
+Tool Calls:<br>
+  ScriptGenerator (call_oRdIok4LsuIoDMb3CiMRgSKB)<br>
+ Call ID: call_oRdIok4LsuIoDMb3CiMRgSKB<br>
+  Args:<br>
+    __arg1: How to grow tomatoes<br><br>
 ================================= Tool Message =================================<br>
 Name: ScriptGenerator
 
@@ -96,12 +96,12 @@ Harvest tomatoes when they are firm and fully colored. Gently twist and pull fro
 [OUTRO]
 With these steps, you'll enjoy a bountiful tomato harvest. Happy gardening!<br>
 ================================== Ai Message ==================================<br>
-Tool Calls:
-  DIDAvatarGenerator (call_a0OzIMDh1CeTo0GUfccyMdPk)
- Call ID: call_a0OzIMDh1CeTo0GUfccyMdPk
-  Args:
-    __arg1: [INTRO]
-Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.
+Tool Calls:<br>
+  DIDAvatarGenerator (call_a0OzIMDh1CeTo0GUfccyMdPk)<br>
+ Call ID: call_a0OzIMDh1CeTo0GUfccyMdPk<br>
+  Args:<br>
+    __arg1: [INTRO]<br>
+Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.<br>
 
 [SECTION 1: CHOOSING VARIETIES]
 Start by selecting the right tomato variety for your climate and space. Determinate types are compact, ideal for containers, while indeterminate types grow larger and need staking.
