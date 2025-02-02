@@ -66,34 +66,34 @@ Tool Calls:<br>
 ================================= Tool Message =================================<br>
 Name: ScriptGenerator
 <br>
-[INTRO]
-Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.
+[INTRO]<br>
+Welcome to our guide on growing tomatoes. Whether you're a beginner or an experienced gardener, these tips will help you cultivate healthy, delicious tomatoes.<br>
 <br>
-[SECTION 1: CHOOSING VARIETIES]
+[SECTION 1: CHOOSING VARIETIES]<br>
 Start by selecting the right tomato variety for your climate and space. Determinate types are compact, ideal for containers, while indeterminate types grow larger and need staking.
 <br>
-[SECTION 2: PLANTING]
+[SECTION 2: PLANTING]<br>
 Choose a sunny spot with at least 6-8 hours of sunlight. Prepare the soil by mixing in compost or well-rotted manure. Plant seedlings deep, burying two-thirds of the stem to encourage strong root growth.
 <br>
-[SECTION 3: WATERING]
+[SECTION 3: WATERING]<br>
 Water consistently, aiming for 1-2 inches per week. Water at the base to avoid wetting the leaves, which can lead to disease. Mulch around plants to retain moisture and suppress weeds.
 <br>
-[SECTION 4: SUPPORTING PLANTS]
+[SECTION 4: SUPPORTING PLANTS]<br>
 Use stakes, cages, or trellises to support your plants. This keeps fruit off the ground, reducing the risk of rot and pests.
 <br>
-[SECTION 5: FERTILIZING]
+[SECTION 5: FERTILIZING]<br>
 Feed your tomatoes with a balanced fertilizer every 4-6 weeks. Avoid high nitrogen fertilizers, which promote foliage over fruit.
 <br>
-[SECTION 6: PRUNING]
+[SECTION 6: PRUNING]<br>
 Prune suckers, the small shoots between the main stem and branches, to improve air circulation and direct energy to fruit production.
 <br>
-[SECTION 7: PEST AND DISEASE MANAGEMENT]
+[SECTION 7: PEST AND DISEASE MANAGEMENT]<br>
 Monitor for pests like aphids and caterpillars. Use organic pesticides or introduce beneficial insects. Rotate crops annually to prevent soil-borne diseases.
 <br>
-[SECTION 8: HARVESTING]
+[SECTION 8: HARVESTING]<br>
 Harvest tomatoes when they are firm and fully colored. Gently twist and pull from the vine. Enjoy them fresh or preserve them for later use.
 <br>
-[OUTRO]
+[OUTRO]<br>
 With these steps, you'll enjoy a bountiful tomato harvest. Happy gardening!<br>
 ================================== Ai Message ==================================<br>
 Tool Calls:<br>
