@@ -25,7 +25,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * Image size up to 10 MB!
 * **Only human faces**, won't work with animal photos!
 * **Image resolution matters!** D-ID will fail with high resolution images. I tested it with images roughly around 1280x1280 px and it works fine.
-* Check [D-ID API](https://docs.d-id.com/reference/createtalk) for the configuration of the avatar, e.g. TEXTSCRIPT > Provider where you can select the text to speech provider and different languages, personalities, speaking styles, etc
+* Check [D-ID API](https://docs.d-id.com/reference/createtalk) for the configuration of the avatar which you should pass in the payload of the ```generate_avatar``` function. See TEXTSCRIPT > Provider where you can select the text to speech provider and different languages, personalities, speaking styles, etc
 
 ## Intallation
 
