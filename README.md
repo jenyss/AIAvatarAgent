@@ -1,4 +1,4 @@
-# LangGraph ReAct Agent for AI Avatar Video Generation
+# LangGraph AI Agent for Educational Content with AI Avatar
 
 This AI Agent enables you to create educational video content from a simple text input. You can enter a topic, and the agent will use all or some of the available tools accordingly:
 
