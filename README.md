@@ -16,6 +16,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * **ScriptGenerator:** OpenAI GPT-4o powered.
 * **DIDAvatarGenerator:** Calling [D-ID](https://www.d-id.com/) for avatar animation. **Important** Read the D-ID image requirements section!
 * **AvatarDownloader:** Local file download tool.
+* **TODO:** You can easily extend the agent by adding a tool that generates content from your own files, enabling custom educational video creation based on your existing materials.
 
 ### D-ID image requirements & more
 * Public URL ending with the image name. **_You can use GitHub but make sure to take the raw image link!!!_** Example of raw link: https://raw.githubusercontent.com/jenyss/AIAvatarAgent/main/Eli_cat.jpeg<br>
